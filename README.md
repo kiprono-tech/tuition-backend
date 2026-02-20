@@ -1,5 +1,3 @@
-## 📖 README.md
-
 # Admin Management System API
 
 A robust, production-ready backend boilerplate for managing administrator accounts. This system handles registration, secure login, and automated email notifications using modern JavaScript practices.
@@ -106,3 +104,4 @@ npm start
 * **CORS**: Enabled for cross-origin resource sharing.
 
 ---
+
